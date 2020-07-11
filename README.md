@@ -5,4 +5,4 @@
 # Hi I'm Jack!
 
 - View my [Twitter](https://twitter.com/jackstrid)
-- Send an [Email](mailto:jacks@hey.com)
+- Send an [Email](jacks@hey.com)
